@@ -13,6 +13,7 @@ WebDriverManager - 4.0
 
 
 Note:
+- Make sure maven is installed on machine.
 -In Intellij, go to Project Structure 
   Make sure project language level is set to 8 - Lambdas, type annotations etc.
 
